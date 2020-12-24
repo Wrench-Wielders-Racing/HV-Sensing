@@ -1,0 +1,1 @@
+Add the MicroCap simulation circuit files, subcircuit files, models, etc. to this folder. 
